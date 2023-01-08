@@ -1,0 +1,40 @@
+.button{
+    font-style: italic;
+    color: blue;
+    background-color: aquamarine;
+    border-radius: 60px;
+
+}
+.txt{
+    font-style: italic;
+    color: black;
+}
+.box
+{
+    height: 450px;
+    width: 400px;
+    border-radius: 20px;
+    border: 3px solid rgb(7, 5, 113);
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align:left;
+    color:black;
+
+
+}
+.bg{
+    background-color: blueviolet;
+    background-size: cover;
+    height: auto;
+}
+.box1
+{
+    height: 600px;
+    width: 500px;
+    border-radius: 20px;
+    border: 3px solid rgb(52, 5, 113);
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align:left;
+    color:black;  
+}
